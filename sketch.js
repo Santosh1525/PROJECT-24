@@ -35,7 +35,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background("blue");
+  background("yellow");
   paper.display();
   dustbin1.display();
   dustbin2.display();
